@@ -14,4 +14,4 @@ The backend is designed in rails-api with a decoupled architecture with desire t
 
 http://backseat-dj-frontend.herokuapp.com/
 
-This app was created as a final project for DevBootcamp Rock Doves 2015.
+
